@@ -1,1 +1,2 @@
 # Note Taker Starter Code
+Note Taker ExpressJS App is a straightforward Express.js web application designed for creating, viewing, and deleting notes. Users can quickly jot down new notes with titles and content, explore their saved notes, and remove any unwanted entries. To get started, install dependencies with npm install, initiate the app using npm start, and access it at http://localhost:3000. The app's functionality can be further extended and deployed on platforms such as Heroku. It utilizes Express.js for web handling and UUID for unique ID generation. 
